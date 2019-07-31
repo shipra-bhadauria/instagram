@@ -1,0 +1,28 @@
+.instagram {
+    font-family: pristina;
+    font-style: bold;
+}
+
+.insta{
+    /* margin: 20px 0px 20px 250px; */
+    padding-left: 250px;
+    background-color: beige;
+}
+
+.likes{
+   padding-left: 5px;
+}
+.save{
+    padding-left: 350px;
+}
+.space{
+    padding-left: 5px;
+}
+.spc{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.rounded-circle{
+    height: 150px;
+    width: 150px;
+}

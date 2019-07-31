@@ -1,0 +1,312 @@
+[
+    {
+        "name":"Shipra",
+        "id": 1 ,
+        "image":"images/mee.jpg",
+        "notes": "“Be the change that you wish to see in the world.” ",
+        "Liked" : "22",
+        "like" : "23",
+        "islike" : true,
+        "addComment":[
+            {
+                "user_id":"abh_17",
+                "comment_text":"nice"
+            },{
+                "user_id":"123adt",
+                "comment_text":"wow"
+            },{
+                "user_id": "af_r900",
+                "comment_text":"great !"
+            }
+            ]
+    },
+    {
+        "name":"Kendall",
+        "id" : 2,
+        "image":"images/16.jpg",
+        "notes":"“Be yourself; everyone else is already taken.” ",
+        "Liked": "100",
+        "like":"101",
+        "islike" : true,
+        "addComment":[
+            {
+                "user_id":"abh_17",
+                "comment_text":"nice"
+            },{
+                "user_id":"123adt",
+                "comment_text":"wow"
+            },{
+                "user_id": "af_r900",
+                "comment_text":"great !"
+            }
+            ]
+    },
+    {
+        "name":"Barbara",
+        "id" : 3,
+        "image":"images/f.jpg",
+        "notes": "“Be the change that you wish to see in the world.” ",
+        "Liked":"220",
+        "like": "221",
+        "islike" : true,
+        "addComment":
+        [
+            {
+                "user_id":"abh_17",
+                "comment_text":"nice"
+            },{
+                "user_id":"123adt",
+                "comment_text":"wow"
+            },{
+                "user_id": "af_r900",
+                "comment_text":"great !"
+            }
+        ]
+    },
+    {
+        "id" : 4,
+        "name":"Chris",
+        "image":"images/n.jpg",
+        "notes" : "No one can make you feel inferior without your consent",
+        "Liked": "19",
+        "like" : "20",
+        "islike" : true,
+        "addComment":[
+            {
+                "user_id":"abh_17",
+                "comment_text":"nice"
+            },{
+                "user_id":"123adt",
+                "comment_text":"wow"
+            },{
+                "user_id": "af_r900",
+                "comment_text":"great !"
+            }
+            ]
+    },
+    {
+        "id": 5,
+        "name":"Shawn",
+        "image":"images/h.jpg",
+        "notes": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+        "Liked":"129",
+        "like":"130",
+        "islike" : true,
+        "likers" : [1,2,32],
+        "addComment":[
+            {
+                "user_id":"abh_17",
+                "comment_text":"wow"
+            },{
+                "user_id": "af_r900",
+                "comment_text":"great !"
+            }
+    ]
+    },
+    {
+        "id" : 6,
+        "name":"Mendos",
+        "image":"images/i.jpg",
+        "notes": "Without music, life would be a mistake.",
+        "Liked" : "22",
+        "islike" : true,
+        "like" : "23",
+        "addComment":[
+            {
+                "user_id":"abh_17",
+                "comment_text":"nice"
+            },{
+                "user_id":"123adt",
+                "comment_text":"wow"
+            },{
+                "user_id": "af_r900",
+                "comment_text":"great !"
+            }
+            ]
+    },
+    {
+        "id" : 7,
+        "name":"Virat",
+        "image":"images/k.jpg",
+        "notes" : "We accept the love we think we deserve.",
+        "addComment":[
+            {
+                "user_id":"abh_17",
+                "comment_text":"nice"
+            },{
+                "user_id":"123adt",
+                "comment_text":"wow"
+            },{
+                "user_id": "af_r900",
+                "comment_text":"great !"
+            }
+            ],
+        "Liked":"100",
+        "islike" : true,
+        "like" : "101"
+    },
+    {
+        "id" : 8,
+        "name":"Viraat",
+        "image":"images/l.jpg",
+        "notes": "It is never too late to be what you might have been.",
+        "addComment":[
+            {
+                "user_id":"abh_17",
+                "comment_text":"wow"
+            },{
+                "user_id": "af_r900",
+                "comment_text":"great !"
+            }
+            ],
+        "Liked":"19",
+        "islike" : true,
+        "like" : "20"
+    },
+    {
+        "id" : 9 ,
+        "name":"Kendall",
+        "image":"images/e.jpg",
+        "notes" : "Everything you can imagine is real.",
+        "addComment":[
+            {
+                "user_id":"abh_17",
+                "comment_text":"nice"
+            },{
+                "user_id":"123adt",
+                "comment_text":"wow"
+            },{
+                "user_id": "af_r900",
+                "comment_text":"great !"
+            }
+            ],
+        "Liked":"220",
+        "islike" : true,
+        "like" : "221"
+    },
+    {
+        "id" :10,
+        "name":"Jenner",
+        "image":"images/c.jpg",
+        "notes" : "“You can never get a cup of tea large enough or a book long enough to suit me.” ",
+        "addComment":[
+            {
+                "user_id":"abh_17",
+                "comment_text":"nice"
+            },{
+                "user_id":"123adt",
+                "comment_text":"wow"
+            },{
+                "user_id": "af_r900",
+                "comment_text":"great !"
+            }
+            ],
+        "Liked":"100",
+        "islike" : true,
+        "like"  : "101"
+    },
+    {   "id" : 11,
+        "name":"Sophia",
+        "image":"images/a.jpg",
+        "notes" : "Do what you can, with what you have, where you are.",
+        "addComment":[
+            {
+                "user_id":"abh_17",
+                "comment_text":"nice"
+            },{
+                "user_id":"123adt",
+                "comment_text":"wow"
+            },{
+                "user_id": "af_r900",
+                "comment_text":"great !"
+            }
+            ],
+        "Liked":"19",
+        "islike" : true,
+        "like"  : "20"
+    },
+    {
+        "id":12,
+        "name":"Bhadauria",
+        "image":"images/me.jpg",
+        "addComment":[
+            {
+                "user_id":"abh_17",
+                "comment_text":"nice"
+            },{
+                "user_id":"123adt",
+                "comment_text":"wow"
+            },{
+                "user_id": "af_r900",
+                "comment_text":"great !"
+            }
+            ],
+        "Liked":"22",
+        "islike" : true,
+        "like"  : "23",
+        "notes" :"Life isn't about finding yourself. Life is about creating yourself."
+    },
+    {
+        "id" : 13,
+        "name":"Kylie",
+        "image":"images/d.jpg",
+        "notes": "Life isn't about finding yourself. Life is about creating yourself.",
+        "addComment":[
+            {
+                "user_id":"abh_17",
+                "comment_text":"nice"
+            },{
+                "user_id":"123adt",
+                "comment_text":"wow"
+            },{
+                "user_id": "af_r900",
+                "comment_text":"great !"
+            }
+            ],
+        "Liked":"100",
+        "islike" : true,
+        "like" : "101"
+    },
+    {
+        "id" : 14,
+        "name":"Shreya",
+        "image":"images/b.jpg",
+        "notes" : "Do what you can, with what you have, where you are.",
+        "addComment":[
+            {
+                "user_id":"abh_17",
+                "comment_text":"nice"
+            },{
+                "user_id":"123adt",
+                "comment_text":"wow"
+            },{
+                "user_id": "af_r900",
+                "comment_text":"great !"
+            }
+            ],
+        "Liked":"100",
+        "islike" : true,
+        "like"  : "101"
+    },
+    {
+        "id" : 15,
+        "name":"Afrin",
+        "image":"images/afrin.jpg",
+        "notes" : "Hahahaha",
+        "addComment":[
+            {
+                "user_id":"abh_17",
+                "comment_text":"nice"
+            },{
+                "user_id":"123adt",
+                "comment_text":"wow"
+            },{
+                "user_id": "af_r900",
+                "comment_text":"great !"
+            }
+            ],
+        "Liked":"220",
+        "islike" : true,
+        "like" : "221"
+    }
+]
